@@ -1,0 +1,44 @@
+{
+    "update_id": 262229618,
+    "message": {
+        "message_id": 2564,
+        "from": {
+            "id": 630675678,
+            "is_bot": false,
+            "first_name": "Олег",
+            "username": "wf_13",
+            "language_code": "uk"
+        },
+        "chat": {
+            "id": 630675678,
+            "first_name": "Олег",
+            "username": "wf_13",
+            "type": "private"
+        },
+        "date": 1691686199,
+        "video": {
+            "duration": 8,
+            "width": 640,
+            "height": 360,
+            "file_name": "QC8iQqtG0hg.mp4",
+            "mime_type": "video\/mp4",
+            "thumbnail": {
+                "file_id": "AAMCAgADGQEAAgoEZNUVN2QwteEalm8KRRZXXOwbln8AAqo2AAIaL6hKTxst2UhE6x4BAAdtAAMwBA",
+                "file_unique_id": "AQADqjYAAhovqEpy",
+                "file_size": 11323,
+                "width": 320,
+                "height": 180
+            },
+            "thumb": {
+                "file_id": "AAMCAgADGQEAAgoEZNUVN2QwteEalm8KRRZXXOwbln8AAqo2AAIaL6hKTxst2UhE6x4BAAdtAAMwBA",
+                "file_unique_id": "AQADqjYAAhovqEpy",
+                "file_size": 11323,
+                "width": 320,
+                "height": 180
+            },
+            "file_id": "BAACAgIAAxkBAAIKBGTVFTdkMLXhGpZvCkUWV1zsG5Z_AAKqNgACGi-oSk8bLdlIROseMAQ",
+            "file_unique_id": "AgADqjYAAhovqEo",
+            "file_size": 453204
+        }
+    }
+}

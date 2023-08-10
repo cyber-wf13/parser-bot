@@ -1,0 +1,19 @@
+{
+    "name": "oleh/test-bot",
+    "description": "my first attempt at creating a telegram bot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Testbot\\": "telegram"
+        }
+    },
+    "authors": [
+        {
+            "name": "cyber-wf-13",
+            "email": "o.zon77788@gmail.com"
+        }
+    ],
+    "require": {
+        "athlon1600/youtube-downloader": "^3.0"
+    }
+}
